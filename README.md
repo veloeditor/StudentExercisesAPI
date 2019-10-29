@@ -1,5 +1,7 @@
 # StudentExercisesAPI
 
+This is the Student Exercises ongoing exercise now utilizing Visual Studio Code .NET and APIs
+
 # Student Exercises Controllers
 
 Your task is to continue to build out the Student Exercises API.
